@@ -1,0 +1,1583 @@
+{
+  "version": 1,
+  "fetchedOn": "2026-10-21",
+  "repository": "https://github.com/Aceship/Arknight-Images",
+  "commit": "0b28f9562fcadbd644c6225f8f8aefbb500b4d22",
+  "assetCount": 64,
+  "totalBytes": 6570985.0,
+  "copyright": "Arknights / 明日方舟游戏美术素材版权归鹰角网络（Hypergryph）及相应权利人所有；本同人项目不取得或重新许可这些游戏素材的版权。",
+  "operators": {
+    "amiya": {
+      "name": "阿米娅",
+      "gameId": "char_002_amiya",
+      "portrait": "assets/operators/amiya-portrait.webp",
+      "avatar": "assets/operators/amiya-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_002_amiya.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_002_amiya_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        493,
+        994
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        493,
+        994
+      ],
+      "avatarSha256": "e936abff48df666e4e030f4559db34797f9a34154815cdefc1a91b84d6be24e0",
+      "portraitSha256": "451bc77c88b972c2ee4208c78cb47bf62a7d59b7abf511fa604820d2f1de48d9",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        308,
+        19,
+        801,
+        1013
+      ],
+      "cropBox": [
+        308,
+        19,
+        801,
+        1013
+      ],
+      "sourcePortraitSha256": "7f807f112293f135e26511e7a5fcaf3e2def37fe903eca690eb4915beaf5ef3d",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "texas": {
+      "name": "德克萨斯",
+      "gameId": "char_102_texas",
+      "portrait": "assets/operators/texas-portrait.webp",
+      "avatar": "assets/operators/texas-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_102_texas.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_102_texas_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        513,
+        1318
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        513,
+        1318
+      ],
+      "avatarSha256": "4f28a39e08a995627acc8cf00655de00cf730ba037aa4c4aaf39f882778b00aa",
+      "portraitSha256": "a7adb77da1789d5e794341fc10ead51eb457a9ef7b123b338cdd6c682740464d",
+      "sourcePortraitSize": [
+        516,
+        1321
+      ],
+      "sourceVisibleBounds": [
+        0,
+        1,
+        513,
+        1319
+      ],
+      "cropBox": [
+        0,
+        1,
+        513,
+        1319
+      ],
+      "sourcePortraitSha256": "c106240b0eb48e69a35ab4a44e7e58d0d122db61515804fe6ddc71e3bcd36f9b",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "exusiai": {
+      "name": "能天使",
+      "gameId": "char_103_angel",
+      "portrait": "assets/operators/exusiai-portrait.webp",
+      "avatar": "assets/operators/exusiai-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_103_angel.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_103_angel_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        474,
+        996
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        474,
+        996
+      ],
+      "avatarSha256": "d395fc875289bc2107a41cd4e6bd7da532d4e473d20d32c89f9dcb23cc64670b",
+      "portraitSha256": "975a7ff5b51229778e9519fa3772d8704d8ca1f85ecb8217fadcf23ecb7fba5c",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        328,
+        19,
+        802,
+        1015
+      ],
+      "cropBox": [
+        328,
+        19,
+        802,
+        1015
+      ],
+      "sourcePortraitSha256": "172c7a2ed1ad758240ffb6ba243a45e468d2b2f84bad363a73d2295ae474b79d",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "silverash": {
+      "name": "银灰",
+      "gameId": "char_172_svrash",
+      "portrait": "assets/operators/silverash-portrait.webp",
+      "avatar": "assets/operators/silverash-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_172_svrash.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_172_svrash_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        983,
+        1433
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        983,
+        1433
+      ],
+      "avatarSha256": "98b1d8b7a8bc92c9392aacef64535075903579df49155fbc14930d2873e48bfc",
+      "portraitSha256": "75a9d4b6ac30c2f874316c42313c1e5c53445d17017fe6f3777665ed92dc9a74",
+      "sourcePortraitSize": [
+        983,
+        1435
+      ],
+      "sourceVisibleBounds": [
+        0,
+        0,
+        983,
+        1433
+      ],
+      "cropBox": [
+        0,
+        0,
+        983,
+        1433
+      ],
+      "sourcePortraitSha256": "9e40c26c9b3d04b492849ed0475c3b94621cb5d25ce1c612d46ad0449ea7b830",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "chen": {
+      "name": "陈",
+      "gameId": "char_010_chen",
+      "portrait": "assets/operators/chen-portrait.webp",
+      "avatar": "assets/operators/chen-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_010_chen.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_010_chen_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        539,
+        1000
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        539,
+        1000
+      ],
+      "avatarSha256": "e04999b060322094cf9bc4dbb5708af715605bc6135844b2f27c44d59124154d",
+      "portraitSha256": "7d56726d7d8c846ae16e5540b43141e07af1fbf34ea03eaa19d74eb71227c730",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        159,
+        17,
+        698,
+        1017
+      ],
+      "cropBox": [
+        159,
+        17,
+        698,
+        1017
+      ],
+      "sourcePortraitSha256": "0ee5c0f3a35bda18134c503667979e3a9f455bd4ad32d053f6f2eaa988a7822b",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "hoshiguma": {
+      "name": "星熊",
+      "gameId": "char_136_hsguma",
+      "portrait": "assets/operators/hoshiguma-portrait.webp",
+      "avatar": "assets/operators/hoshiguma-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_136_hsguma.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_136_hsguma_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        876,
+        1309
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        876,
+        1309
+      ],
+      "avatarSha256": "ef68c83734e9910d05cfdddbca0702dfc7da712d862c3bd7e06ea437384921a0",
+      "portraitSha256": "f788f781f365b6218e8bcc866dea175fa368f1b0bbf200228ba26802d255e46a",
+      "sourcePortraitSize": [
+        877,
+        1311
+      ],
+      "sourceVisibleBounds": [
+        0,
+        0,
+        876,
+        1309
+      ],
+      "cropBox": [
+        0,
+        0,
+        876,
+        1309
+      ],
+      "sourcePortraitSha256": "a81fb14d0f5ef88f7f55c47689620e7a95236d3a0335d6997ce75fc784ae8a40",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "blaze": {
+      "name": "煌",
+      "gameId": "char_017_huang",
+      "portrait": "assets/operators/blaze-portrait.webp",
+      "avatar": "assets/operators/blaze-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_017_huang.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_017_huang_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        1118,
+        1442
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        1118,
+        1442
+      ],
+      "avatarSha256": "edbc8b9be5eb7980087a5ccf7a686357c308f1ebe430ed3dde3f3fa4c1287ce8",
+      "portraitSha256": "7d78f2c200e7cde9b2f819f88598645d0011840b9a9475d303d97c1edbf4a68d",
+      "sourcePortraitSize": [
+        1118,
+        1447
+      ],
+      "sourceVisibleBounds": [
+        0,
+        3,
+        1118,
+        1445
+      ],
+      "cropBox": [
+        0,
+        3,
+        1118,
+        1445
+      ],
+      "sourcePortraitSha256": "36dc6fa31e5b29c58bef81afb20fea3739718867afc3f81f59347c9658aeeb40",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "mountain": {
+      "name": "山",
+      "gameId": "char_264_f12yin",
+      "portrait": "assets/operators/mountain-portrait.webp",
+      "avatar": "assets/operators/mountain-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_264_f12yin.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_264_f12yin_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        592,
+        971
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        592,
+        971
+      ],
+      "avatarSha256": "80e55ca1ad08d569e044ff90231e199009f4bf1286f6e2cf1ac1843a6dd46627",
+      "portraitSha256": "e8970a6c426b0589060bbfd7adcc930bea0851b1a8f1557ada9d53ff7e81de2a",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        223,
+        19,
+        815,
+        990
+      ],
+      "cropBox": [
+        223,
+        19,
+        815,
+        990
+      ],
+      "sourcePortraitSha256": "ae2cb0774ea49bbe4024260804c7c81f86dde7848bdfa2f0babc22f57b892a28",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "thorns": {
+      "name": "棘刺",
+      "gameId": "char_293_thorns",
+      "portrait": "assets/operators/thorns-portrait.webp",
+      "avatar": "assets/operators/thorns-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_293_thorns.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_293_thorns_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        1288,
+        1938
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        1288,
+        1938
+      ],
+      "avatarSha256": "b9405526dd3ebdf9cf7be9dba404284db29549e3603bb9d84a674f0d6cd8f28a",
+      "portraitSha256": "a8388331a6f13fbb87ce031c83a67c3b7eb0db4ac30607b93ece530f9dca2d0c",
+      "sourcePortraitSize": [
+        2048,
+        2048
+      ],
+      "sourceVisibleBounds": [
+        437,
+        57,
+        1725,
+        1995
+      ],
+      "cropBox": [
+        437,
+        57,
+        1725,
+        1995
+      ],
+      "sourcePortraitSha256": "2b3c808588c42ebe7b1a81cc4a6f9b1b367690ae7cf5220f6e3434aee220d4d4",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "angelina": {
+      "name": "安洁莉娜",
+      "gameId": "char_291_aglina",
+      "portrait": "assets/operators/angelina-portrait.webp",
+      "avatar": "assets/operators/angelina-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_291_aglina.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_291_aglina_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        617,
+        1008
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        617,
+        1008
+      ],
+      "avatarSha256": "1f3c2a60c3ae091252cb91169e5524ebdb6586f7fc67a971a5e6e97c9f0596de",
+      "portraitSha256": "920c7dad17b5bc7d5e3b8c785654ef7648719e2ad3b4995b984c8c7273dd0588",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        188,
+        10,
+        805,
+        1018
+      ],
+      "cropBox": [
+        188,
+        10,
+        805,
+        1018
+      ],
+      "sourcePortraitSha256": "8a2e6033eae395328cc13b58fce3bdf1ee810305ce3a131cb0eee968f5bbf450",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "blue_poison": {
+      "name": "蓝毒",
+      "gameId": "char_129_bluep",
+      "portrait": "assets/operators/blue_poison-portrait.webp",
+      "avatar": "assets/operators/blue_poison-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_129_bluep.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_129_bluep_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        440,
+        960
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        440,
+        960
+      ],
+      "avatarSha256": "e10acfbf031d0ac6e2b06ece092e79b208e96cc314dd4c2fda90761ae66ed861",
+      "portraitSha256": "9cb4e3af369cec16fce6994f1e957744d334b267923afab2f06064dbe24ce89b",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        248,
+        56,
+        688,
+        1016
+      ],
+      "cropBox": [
+        248,
+        56,
+        688,
+        1016
+      ],
+      "sourcePortraitSha256": "70a220a2f3e2b74227dcf8a49302f548355d5829c1339196a9a89e5cb7aecf9f",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "ptilopsis": {
+      "name": "白面鸮",
+      "gameId": "char_128_plosis",
+      "portrait": "assets/operators/ptilopsis-portrait.webp",
+      "avatar": "assets/operators/ptilopsis-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_128_plosis.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_128_plosis_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        713,
+        965
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        713,
+        965
+      ],
+      "avatarSha256": "0b9f7187e8bceb0f884cbc74839fb8ae4192703a1920a727af32f67dea5b8116",
+      "portraitSha256": "b8ca8c8ccd546e0126c8ed09bce8681a04ee67600a4c506beb59fc602b127231",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        68,
+        52,
+        781,
+        1017
+      ],
+      "cropBox": [
+        68,
+        52,
+        781,
+        1017
+      ],
+      "sourcePortraitSha256": "b5e2490078458562291ff8a225cfc5e41bd0431c5d3a905d70f52de6349f5bdf",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "mayer": {
+      "name": "梅尔",
+      "gameId": "char_242_otter",
+      "portrait": "assets/operators/mayer-portrait.webp",
+      "avatar": "assets/operators/mayer-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_242_otter.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_242_otter_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        1017,
+        839
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        1017,
+        839
+      ],
+      "avatarSha256": "e104988d617f89a493d9dacae53aae3164c1102ca9e9c2f844933240ff4da631",
+      "portraitSha256": "626078787a7c93cd775cd6e432e16472abe0c14d53508c77931ba1be0bf46eeb",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        3,
+        84,
+        1020,
+        923
+      ],
+      "cropBox": [
+        3,
+        84,
+        1020,
+        923
+      ],
+      "sourcePortraitSha256": "8898a7006931cee2f1dbd8e731009d074c6438e529b9a482d49df4ea9e7477c8",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "myrtle": {
+      "name": "桃金娘",
+      "gameId": "char_151_myrtle",
+      "portrait": "assets/operators/myrtle-portrait.webp",
+      "avatar": "assets/operators/myrtle-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_151_myrtle.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_151_myrtle_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        605,
+        1000
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        605,
+        1000
+      ],
+      "avatarSha256": "c0d8d3da7bcc8eca55d58a576c8afa54b82a643fe62f7f0215316ea25fa53c4a",
+      "portraitSha256": "a130690689255c4895d06827155016ca6a422b4cda6bfa3e3a0f182a7f0eabb7",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        207,
+        9,
+        812,
+        1009
+      ],
+      "cropBox": [
+        207,
+        9,
+        812,
+        1009
+      ],
+      "sourcePortraitSha256": "ea2ebdf27598bb5f18a30b7cdcaa322e53244f42880e3c14bf40de0e5129a3c2",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "lappland": {
+      "name": "拉普兰德",
+      "gameId": "char_140_whitew",
+      "portrait": "assets/operators/lappland-portrait.webp",
+      "avatar": "assets/operators/lappland-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_140_whitew.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_140_whitew_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        718,
+        985
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        718,
+        985
+      ],
+      "avatarSha256": "e1afe744318d64268f3ac50f41bb7a79924c625d6c98cc4d877d719f5da457b7",
+      "portraitSha256": "d3a2a97cb9e37c09ffe8fbc6af748c0dbc389fab8782b6f6bc7ac17e3951f054",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        139,
+        35,
+        857,
+        1020
+      ],
+      "cropBox": [
+        139,
+        35,
+        857,
+        1020
+      ],
+      "sourcePortraitSha256": "b4b0d0b3aa8972930f957971cba994a11ff44911ed1a4f5dec3f34f2c1ec8e59",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "suzuran": {
+      "name": "铃兰",
+      "gameId": "char_358_lisa",
+      "portrait": "assets/operators/suzuran-portrait.webp",
+      "avatar": "assets/operators/suzuran-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_358_lisa.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_358_lisa_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        787,
+        880
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        787,
+        880
+      ],
+      "avatarSha256": "0210001a1ef389018d7e35395086215a81a1d93948bd648fe2279e50b2aa7e3b",
+      "portraitSha256": "9faa5ae3fa50e53ed67ba1a86550c50156ad9c4ed815f80bf9229f5cb40e1fdd",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        104,
+        96,
+        891,
+        976
+      ],
+      "cropBox": [
+        104,
+        96,
+        891,
+        976
+      ],
+      "sourcePortraitSha256": "b2dfaa2a8d1273fc5f985d6bd0eb059761d1dc90b0b1024cf0bd744fa2867311",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "kaltsit": {
+      "name": "凯尔希",
+      "gameId": "char_003_kalts",
+      "portrait": "assets/operators/kaltsit-portrait.webp",
+      "avatar": "assets/operators/kaltsit-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_003_kalts.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_003_kalts_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        544,
+        1820
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        544,
+        1820
+      ],
+      "avatarSha256": "5c75c84fe364b9fb5566665ef7db822a46feacba1d43e149dca99a3b3af374ae",
+      "portraitSha256": "b893119456abaa0944f84ca2c8652b1d9da8141592cadd7e830c7a18833e7a03",
+      "sourcePortraitSize": [
+        2048,
+        2048
+      ],
+      "sourceVisibleBounds": [
+        767,
+        87,
+        1311,
+        1907
+      ],
+      "cropBox": [
+        767,
+        87,
+        1311,
+        1907
+      ],
+      "sourcePortraitSha256": "0626a87328ee8d42ca33cea65e02a7fe0ee68995f48b2210e588690a707d3b8b",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "saria": {
+      "name": "塞雷娅",
+      "gameId": "char_202_demkni",
+      "portrait": "assets/operators/saria-portrait.webp",
+      "avatar": "assets/operators/saria-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_202_demkni.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_202_demkni_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        604,
+        1009
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        604,
+        1009
+      ],
+      "avatarSha256": "73af51a50026100deb8985f567afc4b972f50d57354a8ccbd19e1babb800f130",
+      "portraitSha256": "32c93f3c971ed1cdc4316c75f08e4e1f18a5f921d1bac12feb83dd6bd25a94a0",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        163,
+        7,
+        767,
+        1016
+      ],
+      "cropBox": [
+        163,
+        7,
+        767,
+        1016
+      ],
+      "sourcePortraitSha256": "b6d1813eb52727aa30a2593aeaa5286199b693112722808260f32ac047f7bc11",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "silence": {
+      "name": "赫默",
+      "gameId": "char_108_silent",
+      "portrait": "assets/operators/silence-portrait.webp",
+      "avatar": "assets/operators/silence-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_108_silent.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_108_silent_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        549,
+        967
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        549,
+        967
+      ],
+      "avatarSha256": "45e409f7b038f01f991d3b71269aacb881786072538efd6b88f73002742fe177",
+      "portraitSha256": "919b8bcb6ef9f46959ffeeebbd9220bb11b20fe8df86f87cf4b91b082417857f",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        243,
+        49,
+        792,
+        1016
+      ],
+      "cropBox": [
+        243,
+        49,
+        792,
+        1016
+      ],
+      "sourcePortraitSha256": "96eda8ce3852c659ba26523fe75e242dfd7723e6c81cc9c84c540d429fd86085",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "ifrit": {
+      "name": "伊芙利特",
+      "gameId": "char_134_ifrit",
+      "portrait": "assets/operators/ifrit-portrait.webp",
+      "avatar": "assets/operators/ifrit-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_134_ifrit.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_134_ifrit_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        765,
+        1005
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        765,
+        1005
+      ],
+      "avatarSha256": "07a5f59e7a51d0fe47109bde65eda8956c787e1d13f32d29dd701796ea4ac184",
+      "portraitSha256": "34cb472176077385a158986e3877bbbd0bf54d572e702b3b30db857641beae94",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        156,
+        15,
+        921,
+        1020
+      ],
+      "cropBox": [
+        156,
+        15,
+        921,
+        1020
+      ],
+      "sourcePortraitSha256": "54df0354a9bf6a8ac887a188889b2c002560e99918d4e55ec2a8e789997d06e8",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "eyjafjalla": {
+      "name": "艾雅法拉",
+      "gameId": "char_180_amgoat",
+      "portrait": "assets/operators/eyjafjalla-portrait.webp",
+      "avatar": "assets/operators/eyjafjalla-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_180_amgoat.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_180_amgoat_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        532,
+        969
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        532,
+        969
+      ],
+      "avatarSha256": "9aa6573870192454bc737dcc3456c2dd7590d617b3d757256542f5da53058b2b",
+      "portraitSha256": "becd8f5938af2cdc97b58c107355a86a3f0fa34172a90d147903d0a33aff95b7",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        255,
+        44,
+        787,
+        1013
+      ],
+      "cropBox": [
+        255,
+        44,
+        787,
+        1013
+      ],
+      "sourcePortraitSha256": "73b4db7173c8a1635e534108a49b84f105d49e172ffd6b1c797e08e71be83022",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "skadi": {
+      "name": "斯卡蒂",
+      "gameId": "char_263_skadi",
+      "portrait": "assets/operators/skadi-portrait.webp",
+      "avatar": "assets/operators/skadi-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_263_skadi.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_263_skadi_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        721,
+        999
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        721,
+        999
+      ],
+      "avatarSha256": "e404329114717883fff1b6e3b8a598e291dbc4d0af8e0b8aa7d5091d708964b7",
+      "portraitSha256": "e99dcd789d791d3381c30cfc26497897d51d5b81695781ae04e2fca068a97a64",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        164,
+        16,
+        885,
+        1015
+      ],
+      "cropBox": [
+        164,
+        16,
+        885,
+        1015
+      ],
+      "sourcePortraitSha256": "8864d89de679444738402166063275343547f990091f95be6ab4d3acd900ee47",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "weedy": {
+      "name": "温蒂",
+      "gameId": "char_400_weedy",
+      "portrait": "assets/operators/weedy-portrait.webp",
+      "avatar": "assets/operators/weedy-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_400_weedy.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_400_weedy_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        932,
+        890
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        932,
+        890
+      ],
+      "avatarSha256": "8fedf0ce929e9be0418ca7f1b1bcb3a5944523c13ac21f985b83c5771717640e",
+      "portraitSha256": "5cf0525bc77f9fe8a9cec030da3aea5e72505fb92b70deafc2b5ead3ee0507f1",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        43,
+        100,
+        975,
+        990
+      ],
+      "cropBox": [
+        43,
+        100,
+        975,
+        990
+      ],
+      "sourcePortraitSha256": "a5285df67bccfdb82591029b815aee55751d32bc596c52c1f2f9875bddb2dda9",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "w": {
+      "name": "W",
+      "gameId": "char_113_cqbw",
+      "portrait": "assets/operators/w-portrait.webp",
+      "avatar": "assets/operators/w-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_113_cqbw.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_113_cqbw_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        772,
+        1233
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        772,
+        1233
+      ],
+      "avatarSha256": "e3368ae6b922163006c823fa236b0ed0c0480bc38e6eae38247b219ec4cd9528",
+      "portraitSha256": "8b34b89bab9613ea7e100cd57cd2b95d3844e750d85428683d3a27922f7e3ce5",
+      "sourcePortraitSize": [
+        772,
+        1233
+      ],
+      "sourceVisibleBounds": [
+        0,
+        0,
+        772,
+        1233
+      ],
+      "cropBox": [
+        0,
+        0,
+        772,
+        1233
+      ],
+      "sourcePortraitSha256": "95f019f947de632556e6604782b1c17ad8bec180d44d838cf012619011c32dff",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "nian": {
+      "name": "年",
+      "gameId": "char_2014_nian",
+      "portrait": "assets/operators/nian-portrait.webp",
+      "avatar": "assets/operators/nian-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_2014_nian.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_2014_nian_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        1940,
+        1745
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        1940,
+        1745
+      ],
+      "avatarSha256": "d29f60ed0c65d559cd172ea150f538583322e4ede6d116532d722e108825e5e2",
+      "portraitSha256": "5ffe1577d3ffb775fcf9fa1c6339141fafde8a769d9f9b0e1a646c14977efcf9",
+      "sourcePortraitSize": [
+        2048,
+        2048
+      ],
+      "sourceVisibleBounds": [
+        73,
+        215,
+        2013,
+        1960
+      ],
+      "cropBox": [
+        73,
+        215,
+        2013,
+        1960
+      ],
+      "sourcePortraitSha256": "ea3f46e2c2afa3d546377b80c83ce3684b81e5109f415be907471a3d8a5bb7aa",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 45,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "ling": {
+      "name": "令",
+      "gameId": "char_2023_ling",
+      "portrait": "assets/operators/ling-portrait.webp",
+      "avatar": "assets/operators/ling-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_2023_ling.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_2023_ling_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        1866,
+        1779
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        1866,
+        1779
+      ],
+      "avatarSha256": "80a6e896a2488267edfcca28f87c010b61ec864e384445421afeebd4d25ab3ce",
+      "portraitSha256": "77dd0a4fdbca2e18a4f35a102c0c35fc5aebe077bca285646d7379ca223cce0e",
+      "sourcePortraitSize": [
+        2048,
+        2048
+      ],
+      "sourceVisibleBounds": [
+        99,
+        206,
+        1965,
+        1985
+      ],
+      "cropBox": [
+        99,
+        206,
+        1965,
+        1985
+      ],
+      "sourcePortraitSha256": "9303b58d4546943425235e44d55d53e0081f63dbe172479aa743ad104a8813ef",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 45,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "nightingale": {
+      "name": "夜莺",
+      "gameId": "char_179_cgbird",
+      "portrait": "assets/operators/nightingale-portrait.webp",
+      "avatar": "assets/operators/nightingale-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_179_cgbird.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_179_cgbird_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        733,
+        1019
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        733,
+        1019
+      ],
+      "avatarSha256": "bf4e63bb71004c54d9d499fbee982fc95cd51e5648bf45ece3be6af6a34e52b1",
+      "portraitSha256": "b22dc605610c731f679817412ca3071b53a2ef84ca6a48cb52e96b26493ba67e",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        145,
+        3,
+        878,
+        1022
+      ],
+      "cropBox": [
+        145,
+        3,
+        878,
+        1022
+      ],
+      "sourcePortraitSha256": "c50dc88662e731eb526ff5ef69b4b6d6f9b9911c06adc893b87a41e78a00bf48",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "shining": {
+      "name": "闪灵",
+      "gameId": "char_147_shining",
+      "portrait": "assets/operators/shining-portrait.webp",
+      "avatar": "assets/operators/shining-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_147_shining.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_147_shining_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        421,
+        968
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        421,
+        968
+      ],
+      "avatarSha256": "730a5917d5386304a2ffcb22f52ccc2ea8af8f9d559c9eb75df135912f4e538d",
+      "portraitSha256": "ccc0ac3b1d39adf019ad78285cad14648c2d472eafcf91e97a4e026228a1cc97",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        331,
+        48,
+        752,
+        1016
+      ],
+      "cropBox": [
+        331,
+        48,
+        752,
+        1016
+      ],
+      "sourcePortraitSha256": "c52c754d0bafe0957a6701b570b33fdaef794565e1e047902f54ed329c78dcd2",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "siege": {
+      "name": "推进之王",
+      "gameId": "char_112_siege",
+      "portrait": "assets/operators/siege-portrait.webp",
+      "avatar": "assets/operators/siege-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_112_siege.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_112_siege_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        499,
+        975
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        499,
+        975
+      ],
+      "avatarSha256": "bb5a103defe0c98969d991b4c81666db6a081a54d321e44ada13de812db40955",
+      "portraitSha256": "78ea976d77d40810966f495ec155b017f4548d997b1edaaaa40a39e6d2c64b96",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        297,
+        40,
+        796,
+        1015
+      ],
+      "cropBox": [
+        297,
+        40,
+        796,
+        1015
+      ],
+      "sourcePortraitSha256": "fd7bb4ea4a97c8d87d23bb1cec6297f297822872f0472e76c08708b83afbc956",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "mostima": {
+      "name": "莫斯提马",
+      "gameId": "char_213_mostma",
+      "portrait": "assets/operators/mostima-portrait.webp",
+      "avatar": "assets/operators/mostima-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_213_mostma.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_213_mostma_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        655,
+        956
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        655,
+        956
+      ],
+      "avatarSha256": "3023415091481bb47e5b111b10f4f37f2106fb62fdd89e44f438d14abc4f0742",
+      "portraitSha256": "aa931080d0a948a8be0fc764839b97aeffd91154f58ba6fe32d5e93320bc6454",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        161,
+        44,
+        816,
+        1000
+      ],
+      "cropBox": [
+        161,
+        44,
+        816,
+        1000
+      ],
+      "sourcePortraitSha256": "f8c418d2f30c656a4110898e8b69142201477e28b4dd303845756a00433ad836",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "rosa": {
+      "name": "早露",
+      "gameId": "char_197_poca",
+      "portrait": "assets/operators/rosa-portrait.webp",
+      "avatar": "assets/operators/rosa-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_197_poca.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_197_poca_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        1358,
+        1731
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        1358,
+        1731
+      ],
+      "avatarSha256": "b05d89d85689605d767109c38fdd5a6cd17422a4f8f3369bd6420eb8a41b9920",
+      "portraitSha256": "79aafd3ed2fea917dd52deef54bdd8b35089c950029a6609a10b755e71100673",
+      "sourcePortraitSize": [
+        2048,
+        2048
+      ],
+      "sourceVisibleBounds": [
+        423,
+        248,
+        1781,
+        1979
+      ],
+      "cropBox": [
+        423,
+        248,
+        1781,
+        1979
+      ],
+      "sourcePortraitSha256": "c20b4cfc81c937871cb56308ef4ba46a03dee7daa9e351cee91cb202f6b635e8",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 75,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    },
+    "mudrock": {
+      "name": "泥岩",
+      "gameId": "char_311_mudrok",
+      "portrait": "assets/operators/mudrock-portrait.webp",
+      "avatar": "assets/operators/mudrock-avatar.png",
+      "source": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/avatars/char_311_mudrok.png",
+      "portraitSource": "https://raw.githubusercontent.com/Aceship/Arknight-Images/0b28f9562fcadbd644c6225f8f8aefbb500b4d22/characters/char_311_mudrok_1.png",
+      "portraitKind": "base-illustration",
+      "avatarSize": [
+        180,
+        180
+      ],
+      "portraitSize": [
+        527,
+        903
+      ],
+      "portraitVisibleBounds": [
+        0,
+        0,
+        527,
+        903
+      ],
+      "avatarSha256": "b9af9d79c508bf54d9ec99fa9cb751250eebd2a764ff67854dc39115a089bfce",
+      "portraitSha256": "e7f6de2160e8b898db06ea614005f836bb9ef47db7e658fa97c1d475b3279b96",
+      "sourcePortraitSize": [
+        1024,
+        1024
+      ],
+      "sourceVisibleBounds": [
+        304,
+        66,
+        831,
+        969
+      ],
+      "cropBox": [
+        304,
+        66,
+        831,
+        969
+      ],
+      "sourcePortraitSha256": "385127fc1ac47bd7f24a48b952ff7a50af097599f0aeb237402469b9d314d652",
+      "portraitEncoding": {
+        "format": "webp",
+        "quality": 90,
+        "method": 4,
+        "alphaPreservedExactly": true,
+        "resized": false
+      }
+    }
+  },
+  "activeAssetCount": 64,
+  "activeBytes": 6570985,
+  "allPortraitsCropped": true,
+  "processingNote": "32张基础立绘均仅裁去外围Alpha为0的区域，保留全部非零Alpha像素；未缩放，WebP有损RGB编码，逐张校验Alpha通道与裁后原图完全一致。当前仅保留32张头像PNG和32张基础立绘WebP。"
+}

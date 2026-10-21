@@ -1,0 +1,28 @@
+{
+  "version": "content-v0.3",
+  "date": "2026-10-20",
+  "status": "editorial_draft_for_pilot",
+  "question_count": 30,
+  "candidate_count": 32,
+  "questions_per_dimension": 5,
+  "sample_count": 200000,
+  "sample_seed": 1095912243,
+  "dimensions": {
+    "D": { "name": "决策节奏", "low": "充分分析后行动", "high": "先推进再调整" },
+    "C": { "name": "协作方式", "low": "偏独立负责", "high": "主动交流并协同推进" },
+    "E": { "name": "表达习惯", "low": "克制外显表达", "high": "直接外显表达" },
+    "P": { "name": "计划偏好", "low": "保留临场弹性", "high": "按清晰步骤推进" },
+    "R": { "name": "风险接受", "low": "偏向可控与稳妥", "high": "愿承担已说明的不确定代价" },
+    "S": { "name": "支持方式", "low": "先理解感受与陪伴", "high": "先给方案、资源或行动帮助" }
+  },
+  "operator_files": ["operators_existing.json", "operators_new.json"],
+  "question_version": "questions-v0.3",
+  "profile_version": "profiles-v0.3",
+  "algorithm_version": "equal-distance-6d-v0.3",
+  "review_required": [
+    "角色新增R/S维度与不确定项的剧情资料复核",
+    "D与R、C与S、D与P的题目含义区分",
+    "真实玩家完成时间、结果解释和分享意愿"
+  ],
+  "interpretation": "同人娱乐性行为风格比较；角色分数为编辑假设，不是心理测量、诊断或官方定论。"
+}

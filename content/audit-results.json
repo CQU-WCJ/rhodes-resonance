@@ -1,0 +1,1483 @@
+{
+  "version": "content-v0.3",
+  "checks_passed": [
+    "content_structure",
+    "boundary_scores",
+    "determinism",
+    "display_order_invariance",
+    "answer_roundtrip",
+    "invalid_and_incomplete_answers_rejected",
+    "exact_reachable_witnesses",
+    "sample_tie_weight_conservation"
+  ],
+  "input_hashes": {
+    "content-manifest.json": "1db1a8bf6eb1b23591136eb24771938993f4b85d247fab7f5cad50d8b4af3393",
+    "questions.json": "cfd2b5674be426aaa07db3c07726d6428f1fde690335446a27085fb4ec590122",
+    "operators_existing.json": "83d812621ebf549c7afdc9c60fbac12fc413abc7a9ef8056acdeffc3aecc7a8e",
+    "operators_new.json": "2eff6a480495dc33e9041b1a1a8bfc219a031ed96bc0fd222df89e8d0653abb3"
+  },
+  "questions": 30,
+  "operators": 32,
+  "dimensions": 6,
+  "questions_per_dimension": 5,
+  "theoretical_answer_combinations": "1152921504606846976",
+  "possible_score_vectors": 16777216,
+  "duplicate_groups_4d": [
+    [
+      "silverash",
+      "suzuran"
+    ],
+    [
+      "hoshiguma",
+      "blue_poison",
+      "rosa"
+    ],
+    [
+      "blaze",
+      "ifrit"
+    ],
+    [
+      "kaltsit",
+      "saria",
+      "silence",
+      "eyjafjalla"
+    ],
+    [
+      "shining",
+      "siege"
+    ]
+  ],
+  "duplicate_groups_6d": [],
+  "old_pair_comparison": [
+    {
+      "ids": [
+        "mountain",
+        "blue_poison"
+      ],
+      "differences": [
+        "C",
+        "S"
+      ],
+      "provisional_differences": [
+        "C",
+        "S"
+      ]
+    },
+    {
+      "ids": [
+        "silverash",
+        "suzuran"
+      ],
+      "differences": [
+        "R",
+        "S"
+      ],
+      "provisional_differences": [
+        "R",
+        "S"
+      ]
+    }
+  ],
+  "reachable_witnesses": [
+    {
+      "id": "amiya",
+      "name": "阿米娅",
+      "raw": {
+        "D": 6,
+        "C": 12,
+        "E": 6,
+        "P": 9,
+        "R": 6,
+        "S": 6
+      },
+      "nearest_ids": [
+        "amiya"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "texas",
+      "name": "德克萨斯",
+      "raw": {
+        "D": 9,
+        "C": 6,
+        "E": 3,
+        "P": 6,
+        "R": 6,
+        "S": 9
+      },
+      "nearest_ids": [
+        "texas"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "exusiai",
+      "name": "能天使",
+      "raw": {
+        "D": 9,
+        "C": 9,
+        "E": 12,
+        "P": 6,
+        "R": 6,
+        "S": 6
+      },
+      "nearest_ids": [
+        "exusiai"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "silverash",
+      "name": "银灰",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 6,
+        "P": 12,
+        "R": 9,
+        "S": 12
+      },
+      "nearest_ids": [
+        "silverash"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "chen",
+      "name": "陈",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 9,
+        "P": 12,
+        "R": 9,
+        "S": 9
+      },
+      "nearest_ids": [
+        "chen"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "hoshiguma",
+      "name": "星熊",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 6,
+        "P": 9,
+        "R": 6,
+        "S": 9
+      },
+      "nearest_ids": [
+        "hoshiguma"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "blaze",
+      "name": "煌",
+      "raw": {
+        "D": 12,
+        "C": 9,
+        "E": 12,
+        "P": 3,
+        "R": 12,
+        "S": 12
+      },
+      "nearest_ids": [
+        "blaze"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "mountain",
+      "name": "山",
+      "raw": {
+        "D": 6,
+        "C": 6,
+        "E": 6,
+        "P": 9,
+        "R": 6,
+        "S": 9
+      },
+      "nearest_ids": [
+        "mountain"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "thorns",
+      "name": "棘刺",
+      "raw": {
+        "D": 3,
+        "C": 6,
+        "E": 9,
+        "P": 9,
+        "R": 9,
+        "S": 9
+      },
+      "nearest_ids": [
+        "thorns"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "angelina",
+      "name": "安洁莉娜",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 9,
+        "P": 6,
+        "R": 6,
+        "S": 6
+      },
+      "nearest_ids": [
+        "angelina"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "blue_poison",
+      "name": "蓝毒",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 6,
+        "P": 9,
+        "R": 6,
+        "S": 12
+      },
+      "nearest_ids": [
+        "blue_poison"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "ptilopsis",
+      "name": "白面鸮",
+      "raw": {
+        "D": 3,
+        "C": 9,
+        "E": 3,
+        "P": 12,
+        "R": 6,
+        "S": 12
+      },
+      "nearest_ids": [
+        "ptilopsis"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "mayer",
+      "name": "梅尔",
+      "raw": {
+        "D": 9,
+        "C": 3,
+        "E": 12,
+        "P": 9,
+        "R": 9,
+        "S": 12
+      },
+      "nearest_ids": [
+        "mayer"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "myrtle",
+      "name": "桃金娘",
+      "raw": {
+        "D": 12,
+        "C": 12,
+        "E": 12,
+        "P": 3,
+        "R": 6,
+        "S": 9
+      },
+      "nearest_ids": [
+        "myrtle"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "lappland",
+      "name": "拉普兰德",
+      "raw": {
+        "D": 12,
+        "C": 3,
+        "E": 12,
+        "P": 6,
+        "R": 12,
+        "S": 9
+      },
+      "nearest_ids": [
+        "lappland"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "suzuran",
+      "name": "铃兰",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 6,
+        "P": 12,
+        "R": 6,
+        "S": 3
+      },
+      "nearest_ids": [
+        "suzuran"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "kaltsit",
+      "name": "凯尔希",
+      "raw": {
+        "D": 3,
+        "C": 9,
+        "E": 6,
+        "P": 12,
+        "R": 6,
+        "S": 12
+      },
+      "nearest_ids": [
+        "kaltsit"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "saria",
+      "name": "塞雷娅",
+      "raw": {
+        "D": 3,
+        "C": 9,
+        "E": 6,
+        "P": 12,
+        "R": 3,
+        "S": 12
+      },
+      "nearest_ids": [
+        "saria"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "silence",
+      "name": "赫默",
+      "raw": {
+        "D": 3,
+        "C": 9,
+        "E": 6,
+        "P": 12,
+        "R": 6,
+        "S": 9
+      },
+      "nearest_ids": [
+        "silence"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "ifrit",
+      "name": "伊芙利特",
+      "raw": {
+        "D": 12,
+        "C": 9,
+        "E": 12,
+        "P": 3,
+        "R": 6,
+        "S": 9
+      },
+      "nearest_ids": [
+        "ifrit"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "eyjafjalla",
+      "name": "艾雅法拉",
+      "raw": {
+        "D": 3,
+        "C": 9,
+        "E": 6,
+        "P": 12,
+        "R": 9,
+        "S": 9
+      },
+      "nearest_ids": [
+        "eyjafjalla"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "skadi",
+      "name": "斯卡蒂",
+      "raw": {
+        "D": 9,
+        "C": 3,
+        "E": 3,
+        "P": 6,
+        "R": 6,
+        "S": 12
+      },
+      "nearest_ids": [
+        "skadi"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "weedy",
+      "name": "温蒂",
+      "raw": {
+        "D": 3,
+        "C": 9,
+        "E": 9,
+        "P": 12,
+        "R": 6,
+        "S": 12
+      },
+      "nearest_ids": [
+        "weedy"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "w",
+      "name": "W",
+      "raw": {
+        "D": 6,
+        "C": 6,
+        "E": 12,
+        "P": 9,
+        "R": 6,
+        "S": 9
+      },
+      "nearest_ids": [
+        "w"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "nian",
+      "name": "年",
+      "raw": {
+        "D": 9,
+        "C": 12,
+        "E": 12,
+        "P": 6,
+        "R": 6,
+        "S": 12
+      },
+      "nearest_ids": [
+        "nian"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "ling",
+      "name": "令",
+      "raw": {
+        "D": 6,
+        "C": 6,
+        "E": 9,
+        "P": 3,
+        "R": 9,
+        "S": 3
+      },
+      "nearest_ids": [
+        "ling"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "nightingale",
+      "name": "夜莺",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 3,
+        "P": 6,
+        "R": 6,
+        "S": 9
+      },
+      "nearest_ids": [
+        "nightingale"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "shining",
+      "name": "闪灵",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 3,
+        "P": 9,
+        "R": 6,
+        "S": 6
+      },
+      "nearest_ids": [
+        "shining"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "siege",
+      "name": "推进之王",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 3,
+        "P": 9,
+        "R": 6,
+        "S": 9
+      },
+      "nearest_ids": [
+        "siege"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "mostima",
+      "name": "莫斯提马",
+      "raw": {
+        "D": 6,
+        "C": 3,
+        "E": 6,
+        "P": 3,
+        "R": 6,
+        "S": 3
+      },
+      "nearest_ids": [
+        "mostima"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "rosa",
+      "name": "早露",
+      "raw": {
+        "D": 6,
+        "C": 9,
+        "E": 6,
+        "P": 9,
+        "R": 9,
+        "S": 9
+      },
+      "nearest_ids": [
+        "rosa"
+      ],
+      "uniquely_reachable": true
+    },
+    {
+      "id": "mudrock",
+      "name": "泥岩",
+      "raw": {
+        "D": 6,
+        "C": 12,
+        "E": 3,
+        "P": 9,
+        "R": 9,
+        "S": 12
+      },
+      "nearest_ids": [
+        "mudrock"
+      ],
+      "uniquely_reachable": true
+    }
+  ],
+  "sample": {
+    "count": 200000,
+    "seed": 1095912243,
+    "method": "xorshift32 fixed-seed option simulation",
+    "tied_samples": 32207,
+    "distribution": [
+      {
+        "id": "amiya",
+        "name": "阿米娅",
+        "fractional_count": 7011.14999999997,
+        "share_percent": 3.5055749999999852
+      },
+      {
+        "id": "texas",
+        "name": "德克萨斯",
+        "fractional_count": 15300.850000000064,
+        "share_percent": 7.650425000000031
+      },
+      {
+        "id": "exusiai",
+        "name": "能天使",
+        "fractional_count": 13529.81785714304,
+        "share_percent": 6.764908928571519
+      },
+      {
+        "id": "silverash",
+        "name": "银灰",
+        "fractional_count": 1686.56666666666,
+        "share_percent": 0.84328333333333
+      },
+      {
+        "id": "chen",
+        "name": "陈",
+        "fractional_count": 8654.991666666605,
+        "share_percent": 4.327495833333303
+      },
+      {
+        "id": "hoshiguma",
+        "name": "星熊",
+        "fractional_count": 7009.766666666623,
+        "share_percent": 3.504883333333311
+      },
+      {
+        "id": "blaze",
+        "name": "煌",
+        "fractional_count": 1548.9833333333318,
+        "share_percent": 0.7744916666666659
+      },
+      {
+        "id": "mountain",
+        "name": "山",
+        "fractional_count": 18944.234523809613,
+        "share_percent": 9.472117261904806
+      },
+      {
+        "id": "thorns",
+        "name": "棘刺",
+        "fractional_count": 9748.416666666664,
+        "share_percent": 4.874208333333332
+      },
+      {
+        "id": "angelina",
+        "name": "安洁莉娜",
+        "fractional_count": 24679.63452380918,
+        "share_percent": 12.33981726190459
+      },
+      {
+        "id": "blue_poison",
+        "name": "蓝毒",
+        "fractional_count": 4436.150000000008,
+        "share_percent": 2.2180750000000042
+      },
+      {
+        "id": "ptilopsis",
+        "name": "白面鸮",
+        "fractional_count": 124.16666666666667,
+        "share_percent": 0.06208333333333334
+      },
+      {
+        "id": "mayer",
+        "name": "梅尔",
+        "fractional_count": 3695.3595238095413,
+        "share_percent": 1.8476797619047705
+      },
+      {
+        "id": "myrtle",
+        "name": "桃金娘",
+        "fractional_count": 788.2333333333336,
+        "share_percent": 0.3941166666666667
+      },
+      {
+        "id": "lappland",
+        "name": "拉普兰德",
+        "fractional_count": 3724.3178571428657,
+        "share_percent": 1.8621589285714328
+      },
+      {
+        "id": "suzuran",
+        "name": "铃兰",
+        "fractional_count": 6808.266666666637,
+        "share_percent": 3.4041333333333186
+      },
+      {
+        "id": "kaltsit",
+        "name": "凯尔希",
+        "fractional_count": 121.51666666666664,
+        "share_percent": 0.060758333333333324
+      },
+      {
+        "id": "saria",
+        "name": "塞雷娅",
+        "fractional_count": 284.75000000000006,
+        "share_percent": 0.14237500000000003
+      },
+      {
+        "id": "silence",
+        "name": "赫默",
+        "fractional_count": 1004.4166666666687,
+        "share_percent": 0.5022083333333344
+      },
+      {
+        "id": "ifrit",
+        "name": "伊芙利特",
+        "fractional_count": 3131.366666666669,
+        "share_percent": 1.5656833333333346
+      },
+      {
+        "id": "eyjafjalla",
+        "name": "艾雅法拉",
+        "fractional_count": 1170.7833333333347,
+        "share_percent": 0.5853916666666673
+      },
+      {
+        "id": "skadi",
+        "name": "斯卡蒂",
+        "fractional_count": 2275.4166666666656,
+        "share_percent": 1.1377083333333327
+      },
+      {
+        "id": "weedy",
+        "name": "温蒂",
+        "fractional_count": 591.0833333333333,
+        "share_percent": 0.2955416666666666
+      },
+      {
+        "id": "w",
+        "name": "W",
+        "fractional_count": 10420.417857142911,
+        "share_percent": 5.210208928571455
+      },
+      {
+        "id": "nian",
+        "name": "年",
+        "fractional_count": 3146.616666666668,
+        "share_percent": 1.5733083333333342
+      },
+      {
+        "id": "ling",
+        "name": "令",
+        "fractional_count": 9193.908333333313,
+        "share_percent": 4.596954166666657
+      },
+      {
+        "id": "nightingale",
+        "name": "夜莺",
+        "fractional_count": 6473.84999999998,
+        "share_percent": 3.2369249999999905
+      },
+      {
+        "id": "shining",
+        "name": "闪灵",
+        "fractional_count": 6478.983333333305,
+        "share_percent": 3.239491666666653
+      },
+      {
+        "id": "siege",
+        "name": "推进之王",
+        "fractional_count": 1591.7833333333315,
+        "share_percent": 0.7958916666666658
+      },
+      {
+        "id": "mostima",
+        "name": "莫斯提马",
+        "fractional_count": 4257.916666666671,
+        "share_percent": 2.128958333333335
+      },
+      {
+        "id": "rosa",
+        "name": "早露",
+        "fractional_count": 21049.034523809438,
+        "share_percent": 10.524517261904718
+      },
+      {
+        "id": "mudrock",
+        "name": "泥岩",
+        "fractional_count": 1117.2499999999998,
+        "share_percent": 0.5586249999999999
+      }
+    ]
+  },
+  "scenarios": [
+    {
+      "name": "分析、独立、克制、按序、稳妥、先给方案",
+      "raw": {
+        "D": 3,
+        "C": 3,
+        "E": 3,
+        "P": 12,
+        "R": 3,
+        "S": 12
+      },
+      "answers": {
+        "q01": "B",
+        "q02": "A",
+        "q03": "C",
+        "q04": "B",
+        "q05": "C",
+        "q06": "B",
+        "q07": "A",
+        "q08": "C",
+        "q09": "B",
+        "q10": "C",
+        "q11": "B",
+        "q12": "C",
+        "q13": "D",
+        "q14": "A",
+        "q15": "A",
+        "q16": "A",
+        "q17": "C",
+        "q18": "A",
+        "q19": "A",
+        "q20": "B",
+        "q21": "D",
+        "q22": "D",
+        "q23": "A",
+        "q24": "D",
+        "q25": "B",
+        "q26": "A",
+        "q27": "C",
+        "q28": "C",
+        "q29": "D",
+        "q30": "D"
+      },
+      "nearest": [
+        {
+          "id": "ptilopsis",
+          "name": "白面鸮",
+          "distance": 450000
+        },
+        {
+          "id": "saria",
+          "name": "塞雷娅",
+          "distance": 450000
+        }
+      ],
+      "top": [
+        {
+          "id": "ptilopsis",
+          "name": "白面鸮",
+          "distance": 450000
+        },
+        {
+          "id": "saria",
+          "name": "塞雷娅",
+          "distance": 450000
+        },
+        {
+          "id": "kaltsit",
+          "name": "凯尔希",
+          "distance": 540000
+        },
+        {
+          "id": "mountain",
+          "name": "山",
+          "distance": 540000
+        }
+      ]
+    },
+    {
+      "name": "先行、协作、外显、弹性、愿意试探、先陪伴",
+      "raw": {
+        "D": 12,
+        "C": 12,
+        "E": 12,
+        "P": 3,
+        "R": 12,
+        "S": 3
+      },
+      "answers": {
+        "q01": "B",
+        "q02": "A",
+        "q03": "C",
+        "q04": "B",
+        "q05": "C",
+        "q06": "B",
+        "q07": "D",
+        "q08": "B",
+        "q09": "A",
+        "q10": "A",
+        "q11": "A",
+        "q12": "A",
+        "q13": "A",
+        "q14": "C",
+        "q15": "D",
+        "q16": "B",
+        "q17": "B",
+        "q18": "B",
+        "q19": "C",
+        "q20": "A",
+        "q21": "A",
+        "q22": "A",
+        "q23": "D",
+        "q24": "A",
+        "q25": "B",
+        "q26": "A",
+        "q27": "C",
+        "q28": "C",
+        "q29": "D",
+        "q30": "D"
+      },
+      "nearest": [
+        {
+          "id": "exusiai",
+          "name": "能天使",
+          "distance": 720000
+        },
+        {
+          "id": "myrtle",
+          "name": "桃金娘",
+          "distance": 720000
+        }
+      ],
+      "top": [
+        {
+          "id": "exusiai",
+          "name": "能天使",
+          "distance": 720000
+        },
+        {
+          "id": "myrtle",
+          "name": "桃金娘",
+          "distance": 720000
+        },
+        {
+          "id": "ifrit",
+          "name": "伊芙利特",
+          "distance": 810000
+        }
+      ]
+    },
+    {
+      "name": "先行与协作，但风险稳妥、先做具体支持",
+      "raw": {
+        "D": 12,
+        "C": 12,
+        "E": 9,
+        "P": 6,
+        "R": 3,
+        "S": 12
+      },
+      "answers": {
+        "q01": "B",
+        "q02": "A",
+        "q03": "C",
+        "q04": "B",
+        "q05": "C",
+        "q06": "B",
+        "q07": "D",
+        "q08": "B",
+        "q09": "A",
+        "q10": "C",
+        "q11": "B",
+        "q12": "C",
+        "q13": "A",
+        "q14": "C",
+        "q15": "D",
+        "q16": "B",
+        "q17": "C",
+        "q18": "A",
+        "q19": "C",
+        "q20": "A",
+        "q21": "D",
+        "q22": "A",
+        "q23": "A",
+        "q24": "D",
+        "q25": "B",
+        "q26": "A",
+        "q27": "C",
+        "q28": "C",
+        "q29": "D",
+        "q30": "D"
+      },
+      "nearest": [
+        {
+          "id": "nian",
+          "name": "年",
+          "distance": 270000
+        }
+      ],
+      "top": [
+        {
+          "id": "nian",
+          "name": "年",
+          "distance": 270000
+        },
+        {
+          "id": "myrtle",
+          "name": "桃金娘",
+          "distance": 360000
+        },
+        {
+          "id": "ifrit",
+          "name": "伊芙利特",
+          "distance": 450000
+        }
+      ]
+    },
+    {
+      "name": "谨慎自主，但表达直接、过程保留弹性",
+      "raw": {
+        "D": 3,
+        "C": 3,
+        "E": 12,
+        "P": 3,
+        "R": 6,
+        "S": 6
+      },
+      "answers": {
+        "q01": "B",
+        "q02": "A",
+        "q03": "C",
+        "q04": "B",
+        "q05": "C",
+        "q06": "B",
+        "q07": "A",
+        "q08": "C",
+        "q09": "A",
+        "q10": "A",
+        "q11": "A",
+        "q12": "C",
+        "q13": "D",
+        "q14": "A",
+        "q15": "D",
+        "q16": "B",
+        "q17": "C",
+        "q18": "B",
+        "q19": "A",
+        "q20": "B",
+        "q21": "A",
+        "q22": "A",
+        "q23": "A",
+        "q24": "A",
+        "q25": "B",
+        "q26": "A",
+        "q27": "C",
+        "q28": "C",
+        "q29": "D",
+        "q30": "D"
+      },
+      "nearest": [
+        {
+          "id": "ling",
+          "name": "令",
+          "distance": 450000
+        }
+      ],
+      "top": [
+        {
+          "id": "ling",
+          "name": "令",
+          "distance": 450000
+        },
+        {
+          "id": "mostima",
+          "name": "莫斯提马",
+          "distance": 540000
+        },
+        {
+          "id": "angelina",
+          "name": "安洁莉娜",
+          "distance": 630000
+        },
+        {
+          "id": "w",
+          "name": "W",
+          "distance": 630000
+        }
+      ]
+    },
+    {
+      "name": "各维度居中，部分情境略有变化",
+      "raw": {
+        "D": 7,
+        "C": 8,
+        "E": 7,
+        "P": 8,
+        "R": 7,
+        "S": 8
+      },
+      "answers": {
+        "q01": "B",
+        "q02": "A",
+        "q03": "C",
+        "q04": "B",
+        "q05": "C",
+        "q06": "B",
+        "q07": "D",
+        "q08": "B",
+        "q09": "A",
+        "q10": "C",
+        "q11": "A",
+        "q12": "C",
+        "q13": "C",
+        "q14": "D",
+        "q15": "B",
+        "q16": "C",
+        "q17": "D",
+        "q18": "C",
+        "q19": "A",
+        "q20": "B",
+        "q21": "D",
+        "q22": "A",
+        "q23": "A",
+        "q24": "A",
+        "q25": "B",
+        "q26": "A",
+        "q27": "C",
+        "q28": "C",
+        "q29": "D",
+        "q30": "D"
+      },
+      "nearest": [
+        {
+          "id": "hoshiguma",
+          "name": "星熊",
+          "distance": 60000
+        }
+      ],
+      "top": [
+        {
+          "id": "hoshiguma",
+          "name": "星熊",
+          "distance": 60000
+        },
+        {
+          "id": "mountain",
+          "name": "山",
+          "distance": 90000
+        },
+        {
+          "id": "rosa",
+          "name": "早露",
+          "distance": 90000
+        }
+      ]
+    }
+  ],
+  "uncertain_dimensions": [
+    {
+      "id": "amiya",
+      "name": "阿米娅",
+      "dimensions": [
+        "D",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "texas",
+      "name": "德克萨斯",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "exusiai",
+      "name": "能天使",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "silverash",
+      "name": "银灰",
+      "dimensions": [
+        "D",
+        "C",
+        "E",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "chen",
+      "name": "陈",
+      "dimensions": [
+        "D",
+        "C",
+        "E",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "hoshiguma",
+      "name": "星熊",
+      "dimensions": [
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "blaze",
+      "name": "煌",
+      "dimensions": [
+        "C",
+        "P"
+      ]
+    },
+    {
+      "id": "mountain",
+      "name": "山",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "thorns",
+      "name": "棘刺",
+      "dimensions": [
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "angelina",
+      "name": "安洁莉娜",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "blue_poison",
+      "name": "蓝毒",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "ptilopsis",
+      "name": "白面鸮",
+      "dimensions": [
+        "D",
+        "C",
+        "E",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "mayer",
+      "name": "梅尔",
+      "dimensions": [
+        "D",
+        "P"
+      ]
+    },
+    {
+      "id": "myrtle",
+      "name": "桃金娘",
+      "dimensions": [
+        "D",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "lappland",
+      "name": "拉普兰德",
+      "dimensions": [
+        "D",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "suzuran",
+      "name": "铃兰",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R"
+      ]
+    },
+    {
+      "id": "kaltsit",
+      "name": "凯尔希",
+      "dimensions": [
+        "D",
+        "C",
+        "E",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "saria",
+      "name": "塞雷娅",
+      "dimensions": [
+        "D",
+        "E",
+        "P",
+        "S"
+      ]
+    },
+    {
+      "id": "silence",
+      "name": "赫默",
+      "dimensions": [
+        "D",
+        "P",
+        "R"
+      ]
+    },
+    {
+      "id": "ifrit",
+      "name": "伊芙利特",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "eyjafjalla",
+      "name": "艾雅法拉",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "skadi",
+      "name": "斯卡蒂",
+      "dimensions": [
+        "D",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "weedy",
+      "name": "温蒂",
+      "dimensions": [
+        "D",
+        "P",
+        "R"
+      ]
+    },
+    {
+      "id": "w",
+      "name": "W",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "nian",
+      "name": "年",
+      "dimensions": [
+        "D",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "ling",
+      "name": "令",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "nightingale",
+      "name": "夜莺",
+      "dimensions": [
+        "D",
+        "E",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "shining",
+      "name": "闪灵",
+      "dimensions": [
+        "D",
+        "P",
+        "R"
+      ]
+    },
+    {
+      "id": "siege",
+      "name": "推进之王",
+      "dimensions": [
+        "D",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "mostima",
+      "name": "莫斯提马",
+      "dimensions": [
+        "D",
+        "C",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "rosa",
+      "name": "早露",
+      "dimensions": [
+        "D",
+        "P",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "mudrock",
+      "name": "泥岩",
+      "dimensions": [
+        "D",
+        "P",
+        "R"
+      ]
+    }
+  ],
+  "interpretation": "构造样本和固定种子的随机选项模拟；不是全答案穷举、真实玩家统计或心理测量准确率。"
+}
